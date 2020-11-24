@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <pthread.h>
+#include <stdlib.h>
+
+void enter_region()
+{
+
